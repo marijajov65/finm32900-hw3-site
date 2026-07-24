@@ -1,0 +1,4 @@
+Name,Metadata Complete,Object Type,Identifier,Pipeline,Missing Fields,Page Link
+Treasury Securities and the Yield Curve,False,pipeline,YC,YC,"build_commands, os_compatibility, git_repo_URL",../index.html
+CRSP Treasury Consolidated,True,dataframe,crsp_treasury_consolidated,YC,,./dataframes/YC/crsp_treasury_consolidated.html
+Federal Reserve Yield Curve Parameters,True,dataframe,fed_yield_curve,YC,,./dataframes/YC/fed_yield_curve.html
